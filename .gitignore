@@ -1,0 +1,6 @@
+data
+*.log
+*.pyc
+tags
+fig
+
