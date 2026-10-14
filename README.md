@@ -6,7 +6,7 @@ A five-page static academic site tailored from Phuoc Nguyen's publicly documente
 
 - `index.html` — concise homepage, selected publications and research themes
 - `research.html` — three research directions
-- `publications.html` — six verified DOI links
+- `publications.html` — seven verified DOI links
 - `students.html` — prospective PhD information and publicly listed current/completed supervision
 - `about.html` — biography, research projects, contact and academic profile links
 - `portrait.png` — portrait displayed on the homepage and biography page
